@@ -9,12 +9,12 @@ function App() {
   return (
    <>
       <AppBar position="fixed">
-<ToolBar>
+<Toolbar>
 <Typography variant="h6">Video Player
 </Typography>
-</ToolBar>
+</Toolbar>
       </AppBar>
-      <ToolBar/>
+      <Toolbar/>
       <Container maxWidth="md">
 <ReactPlayer
     url="https://www.youtube.com/watch?v=jssO8-5qmag"
