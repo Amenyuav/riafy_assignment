@@ -1,6 +1,6 @@
 import React from 'react';
 import AppBar from '@material-ui/core/AppBar';
-import ToolBar from '@material-ui/core/ToolBar';
+import Toolbar from '@material-ui/core/ToolBar';
 import Typography from '@material-ui/core/Typography';
 import Container from '@material-ui/core/Container';
 import ReactPlayer from 'react-player';
