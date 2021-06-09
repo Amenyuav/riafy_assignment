@@ -1,5 +1,5 @@
 {
-  "engines" : { "node" : "12.18.4" } ,
+  
   "name": "video-player",
   "version": "0.1.0",
   "private": true,
